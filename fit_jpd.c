@@ -1,6 +1,8 @@
 /*   This file is part of Full Statistical Mode Reconstruction Project
  * 
- *   Copyright (C) 2017 Ivan Burenkov - All Rights Reserved
+ *   Original FSMR algorithm is created by Ivan Burenkov
+ *   Nonlinear fitting is implemented with use of GSL library under GPL license.
+ *
  *   You may use, distribute and modify this code under the
  *   terms of the GNU General Public License as published by
  *   the Free Software Foundation, either version 3 of the License, or
